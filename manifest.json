@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-26T07:59:10.381Z",
+  "files": [
+    {
+      "path": ".claude/agents/content-agent.md",
+      "sha256": "bab2a5de51e08234b35b8becacfd0a326fd4369ff4a402d37aa3c91aff9fbcc7",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/agents/content-agent.md"
+    },
+    {
+      "path": ".claude/agents/ghl-agent.md",
+      "sha256": "10f7345112ecd74cf536b55c36ccafa67f89a118e30bc1ef1dab0a4e1e3a7487",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/agents/ghl-agent.md"
+    },
+    {
+      "path": ".claude/agents/n8n-agent.md",
+      "sha256": "40588240a3f38cb9de72ca7e322d4ea0de5ce670844201d706f53237574ff133",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/agents/n8n-agent.md"
+    },
+    {
+      "path": ".claude/agents/research-agent.md",
+      "sha256": "b872b32347c80c75444cc9cb12aac43980475c5eda9ee8ae887861c805480c7b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/agents/research-agent.md"
+    },
+    {
+      "path": ".claude/commands/setup.md",
+      "sha256": "0a01b3fbb36d621930cc5c9386a7900eee6d6a68f1f02cccd5a5c5aeb9f24402",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/setup.md"
+    },
+    {
+      "path": ".claude/skills/hello-prime/SKILL.md",
+      "sha256": "1866c321a1f20d429ffe7f9cedb919cef8195f439dff907c5b2d79b6ea144fd3",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/hello-prime/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/inbox-pipeline-audit/references/ideal-buyer-prompt.md",
+      "sha256": "fa4d0644e0c3fa3aaf68bb041707eaaee22f5a701edafb4e716a7e8f6c2d69c2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/inbox-pipeline-audit/references/ideal-buyer-prompt.md"
+    },
+    {
+      "path": ".claude/skills/inbox-pipeline-audit/references/journal-entry-prompt.md",
+      "sha256": "3e527a4412a8b9939de192f3bfc793da17a8eea8339682c2e624e7b7bd295b79",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/inbox-pipeline-audit/references/journal-entry-prompt.md"
+    },
+    {
+      "path": ".claude/skills/inbox-pipeline-audit/references/nightmare-day-prompt.md",
+      "sha256": "24022da6a745fa020b3f7f4b9893e665fe44e5abc7626e10b5512bb0463b6b7a",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/inbox-pipeline-audit/references/nightmare-day-prompt.md"
+    },
+    {
+      "path": ".claude/skills/inbox-pipeline-audit/SKILL.md",
+      "sha256": "0dc99acfd8f8829fd1c4330448f822a9f3b3031aadba920d94ad66744393318b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/inbox-pipeline-audit/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/living-avatar/assets/avatar-template.md",
+      "sha256": "5a545694e1735596e46cf0cbaf8e66d6bc78725e83402a8cb0c5851691ed8145",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/living-avatar/assets/avatar-template.md"
+    },
+    {
+      "path": ".claude/skills/living-avatar/SKILL.md",
+      "sha256": "8027c9f28232b82a55ca227e623f6228803cf3b7f738f09a5b3c1adb4605fc28",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/living-avatar/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/LICENSE",
+      "sha256": "50b58456be6ea39782a695e45a6a796689077c36cd3988cd0323397ac0b10449",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/LICENSE"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/host-prime-agent-desk.md",
+      "sha256": "52877a40306f3829b4c88e5d60b68e6d53bf1e8b7a2148326487a3ede108981d",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/host-prime-agent-desk.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/loops-and-loop-engineering.md",
+      "sha256": "cd548ff3e580f9d9e4ac62c4c86c23474756e5d1054fa983bdf089fad495f622",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/loops-and-loop-engineering.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/pattern-evaluator-optimizer.md",
+      "sha256": "ea3e9e966bb3020a7df30630aec372b0d9c98f6f527982e4de09d4653022b3d2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/pattern-evaluator-optimizer.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/pattern-orchestrator-workers.md",
+      "sha256": "6b3c6efa1afedc3fce7620f8c9ac4e0591f7e99a54883bbde92e3a49389852e6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/pattern-orchestrator-workers.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/pattern-ralph.md",
+      "sha256": "a9b0dd293505ec0fb834e920b004bab730fb55cd121fe6a6da00de78bade3449",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/pattern-ralph.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/pattern-react-deterministic-verifier.md",
+      "sha256": "8c24526511be77849889b6a7abc37e1bab0ef1049847e3b69df685c6a3c11bb1",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/pattern-react-deterministic-verifier.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/skill-bank/recommended.md",
+      "sha256": "21bc13b77b587550ab53844756f600d88fa994084a4c1ec0580680bf06551576",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/skill-bank/recommended.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/references/skill-bank/search-agent.md",
+      "sha256": "bf140003db34190a63a0eafec1d28a6242f56a790d1eeafbc23916cf2886a216",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/references/skill-bank/search-agent.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/scripts/lint_loop.py",
+      "sha256": "326721edb9047f7af648a54a04c487f7248326fc903c8b99fc8b6b1ca907ab9d",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/scripts/lint_loop.py"
+    },
+    {
+      "path": ".claude/skills/loop-maker/scripts/loop_progress.py",
+      "sha256": "689e565e9b583798895956b26c69dec6777f4579137cb7bf73485b7f021e5dd4",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/scripts/loop_progress.py"
+    },
+    {
+      "path": ".claude/skills/loop-maker/scripts/verifier_template.sh",
+      "sha256": "06615429e71f163e28509ea5f24c8bf63a70c6ccbde76c473db14f9ed2d0b3c7",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/scripts/verifier_template.sh"
+    },
+    {
+      "path": ".claude/skills/loop-maker/scripts/verify_example.sh",
+      "sha256": "23d2d2e907d49dd8a6fe4b970f2366eeece8a4a4c48c1b3f1da86fa56947f3d6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/scripts/verify_example.sh"
+    },
+    {
+      "path": ".claude/skills/loop-maker/scripts/verify_item_example.sh",
+      "sha256": "925e0b0b1b74635d55f8510dce2cacbc01ef71eb88df3cdf6609336e5a969e01",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/scripts/verify_item_example.sh"
+    },
+    {
+      "path": ".claude/skills/loop-maker/SKILL.md",
+      "sha256": "3b3ac691a21fd0de6806b1cb0d8635afd683b0ab39144c79aaca5b12ee85d082",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/loop-maker/templates/HUMAN-GATES.md.tmpl",
+      "sha256": "fc3935a7e9403bfdb8aa3e58bd8db55a092127bdf423dc83bd3f0d09063e7604",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/templates/HUMAN-GATES.md.tmpl"
+    },
+    {
+      "path": ".claude/skills/loop-maker/templates/loop-SKILL.md.tmpl",
+      "sha256": "2d6b195bc033ac8ee5dfe10344fca47c6484d78519a41923eee6e97615019159",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/templates/loop-SKILL.md.tmpl"
+    },
+    {
+      "path": ".claude/skills/loop-maker/templates/STATE.md.tmpl",
+      "sha256": "3ce8d7c2f747b01c733eb5c3de94ffd57ee5a949923aa625a69a382d9df9be55",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/templates/STATE.md.tmpl"
+    },
+    {
+      "path": ".claude/skills/loop-maker/templates/TRIGGER.md.tmpl",
+      "sha256": "16cfc12c3617e615cfd1da3e3e1ccc2ddeec05c16da9f5ab6c2f56abffda9bab",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/templates/TRIGGER.md.tmpl"
+    },
+    {
+      "path": ".claude/skills/prime-3f-framework/references/task-libraries.md",
+      "sha256": "30b4b011587d181be6f1bf6b6cc5546ca28376429d416af8e74672dcaa7545f9",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-3f-framework/references/task-libraries.md"
+    },
+    {
+      "path": ".claude/skills/prime-3f-framework/SKILL.md",
+      "sha256": "0db1eb7addf6e2901b6388cdad6607bd4d34316512f18b975cac0d8bc939b1f2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-3f-framework/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx",
+      "sha256": "1b8a5a798d49b67515277b0c885029d41f3adc5401556a1a54571f4b92a2d8ce",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/assets/time_audit.html",
+      "sha256": "6d8c3f34fb619c8d57b75dda7aeb779eaeda261f38f1bbe16d15e52d05a207e6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-time-audit/assets/time_audit.html"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/SKILL.md",
+      "sha256": "a6ce1c0927122c73829f3d4f1cefbebc5ec97c6800f9c9cedb80acdda099f5e4",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-time-audit/SKILL.md"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "a58de0982f509eb4b10dfd4e3bff8ca7c4a26fcd1ddb7b4b790103f2cbc93679",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/CLAUDE.md"
+    }
+  ]
+}
