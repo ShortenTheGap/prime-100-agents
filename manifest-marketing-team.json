@@ -1,11 +1,71 @@
 {
-  "version": 1,
-  "generatedAt": "2026-09-06T11:53:52.152Z",
+  "version": 2,
+  "generatedAt": "2026-09-06T17:36:35.566Z",
   "files": [
     {
       "path": ".claude/agents/david-ogilvy.md",
       "sha256": "6f53058c9d5f8d43f1e65296b185900583b7b716c511adaa4bb65d8139f69cb2",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/agents/david-ogilvy.md"
+    },
+    {
+      "path": ".claude/skills/living-avatar/assets/avatar-template.md",
+      "sha256": "79472b3610290002ed6ae8ede968487627f9dafb383fe1c7fde823183c0f5835",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/living-avatar/assets/avatar-template.md"
+    },
+    {
+      "path": ".claude/skills/living-avatar/SKILL.md",
+      "sha256": "def8621b73fefcc8e4116346c8f9c539c6d60292e87e7d3ade737469b1212c82",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/living-avatar/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-copy-blocks/references/copy-blocks-definitions.md",
+      "sha256": "b82b2ebff219f931d4ab048c039ccbe8d499e96a3327f13b26ab05ae93142c0c",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-copy-blocks/references/copy-blocks-definitions.md"
+    },
+    {
+      "path": ".claude/skills/prime-copy-blocks/SKILL.md",
+      "sha256": "4ea79368baa3fc9f891a4d1209cd423d8cfd9a93f934b0814c1e913268b5865c",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-copy-blocks/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-ideal-buyer/references/ideal-buyer-prompt.md",
+      "sha256": "fa4d0644e0c3fa3aaf68bb041707eaaee22f5a701edafb4e716a7e8f6c2d69c2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-ideal-buyer/references/ideal-buyer-prompt.md"
+    },
+    {
+      "path": ".claude/skills/prime-ideal-buyer/references/journal-entry-prompt.md",
+      "sha256": "3e527a4412a8b9939de192f3bfc793da17a8eea8339682c2e624e7b7bd295b79",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-ideal-buyer/references/journal-entry-prompt.md"
+    },
+    {
+      "path": ".claude/skills/prime-ideal-buyer/references/nightmare-day-prompt.md",
+      "sha256": "24022da6a745fa020b3f7f4b9893e665fe44e5abc7626e10b5512bb0463b6b7a",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-ideal-buyer/references/nightmare-day-prompt.md"
+    },
+    {
+      "path": ".claude/skills/prime-ideal-buyer/SKILL.md",
+      "sha256": "64ab5139e3ed9d52ff14ac398b49abac253d617813b2e259a0c596f0fc30a367",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-ideal-buyer/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-moat/SKILL.md",
+      "sha256": "0b299b05383e86d1d0d734b6dcb0bd8cd0b6d5ab81ba381504eaa37ccfa4dcd0",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-moat/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-origin-story/SKILL.md",
+      "sha256": "c1cb21e29c6884786c55829fe6794abe0f846958aab73d69286f1cbd1e1ca51a",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-origin-story/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-viral-hooks/references/viral-hook-frameworks.md",
+      "sha256": "df110e327d2aa7b2417d6b78b469429f2707774495265b27a2586ebc06aeb51b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-viral-hooks/references/viral-hook-frameworks.md"
+    },
+    {
+      "path": ".claude/skills/prime-viral-hooks/SKILL.md",
+      "sha256": "cc82fe10e8404a26423d7193fd162db22a2609517b8b7166ade38505593595c1",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-viral-hooks/SKILL.md"
     },
     {
       "path": ".pad-pack.json",
