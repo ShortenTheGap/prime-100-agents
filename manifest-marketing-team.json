@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T11:53:52.152Z",
+  "files": [
+    {
+      "path": ".claude/agents/david-ogilvy.md",
+      "sha256": "6f53058c9d5f8d43f1e65296b185900583b7b716c511adaa4bb65d8139f69cb2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/agents/david-ogilvy.md"
+    },
+    {
+      "path": ".pad-pack.json",
+      "sha256": "6be10bd31913cb16a20c995a05fbb0c8897f8bc33b91869920e0eba55882ad80",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.pad-pack.json"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "02002dbab4ae2ab7f657ae086b077a7e2d61461e201799da8b11245b7e863ef3",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/CLAUDE.md"
+    },
+    {
+      "path": "david-ogilvy/CLAUDE.md",
+      "sha256": "5e5af5f9e1c9730d445e350d83412f0b2812864e8a71b57bcf18df7c8b82c017",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/CLAUDE.md"
+    },
+    {
+      "path": "david-ogilvy/memory/david-ogilvy-memory.md",
+      "sha256": "2ba5c67a3554babd72f8f83f308034d38a7b68e4d492dd4946d1110a0ec9f41e",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/memory/david-ogilvy-memory.md"
+    },
+    {
+      "path": "david-ogilvy/reference/research-dossier.md",
+      "sha256": "d3aacb4e9b5200b7c4ee34af51338bebee876a1d6b6762a7cee155eb2ab1aa96",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/reference/research-dossier.md"
+    },
+    {
+      "path": "david-ogilvy/reference/skills-roadmap.md",
+      "sha256": "da332eaa307e62b4862af6fbd5daac1d43f496a760a03cbcbb1160c199c6294e",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/reference/skills-roadmap.md"
+    },
+    {
+      "path": "david-ogilvy/skills/david-ogilvy/SKILL.md",
+      "sha256": "f5b3bb12d3605cd67ff04502d4065baf751111eeeabb5e41c043a318bcfbf702",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/skills/david-ogilvy/SKILL.md"
+    },
+    {
+      "path": "shared/brand-voice.md",
+      "sha256": "cc8b0f64f056be69c18ea196a082f3a9a4163ba215ce0701557b7d7132b0ce1b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/shared/brand-voice.md"
+    },
+    {
+      "path": "shared/company-context.md",
+      "sha256": "3542e29e3c966184416459c15481546685a3f463a5edb6050a912ab3296744a4",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/shared/company-context.md"
+    },
+    {
+      "path": "WELCOME.md",
+      "sha256": "02527acb3a4c878f0f5af2f5c2720e8e2dfe1d8fdcaa4b23c14eeffce190ab4e",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/WELCOME.md"
+    }
+  ]
+}
