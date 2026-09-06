@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-09-06T17:47:47.252Z",
+  "version": 4,
+  "generatedAt": "2026-09-06T17:52:49.142Z",
   "files": [
     {
       "path": ".claude/agents/david-ogilvy.md",
@@ -74,7 +74,7 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "0a685fcd74d5aacada94a6bee28ec7bfeec5cf4e085809840c3e7fa2df405fb5",
+      "sha256": "3104830a66677a1011e4bc3980d5b62e9e3890d876dd3aef1543d6f22318761f",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/CLAUDE.md"
     },
     {
