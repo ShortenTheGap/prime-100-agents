@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "generatedAt": "2026-09-06T17:58:23.736Z",
+  "version": 6,
+  "generatedAt": "2026-09-14T11:32:08.506Z",
   "files": [
     {
       "path": ".claude/agents/david-ogilvy.md",
@@ -56,6 +56,46 @@
       "path": ".claude/skills/prime-origin-story/SKILL.md",
       "sha256": "c1cb21e29c6884786c55829fe6794abe0f846958aab73d69286f1cbd1e1ca51a",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-origin-story/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/commandments.md",
+      "sha256": "579b3ad51d35885d18bea110c5e468b76c459242506edf44044164a116f8df8b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/commandments.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/cta-system.md",
+      "sha256": "58f150e9218747760baad79cedd9b6cf5620a8fd3f277d153c5ac0bc3af39b2d",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/cta-system.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/hooks.md",
+      "sha256": "1f5ea78450798aed0b5f251d90466e0c34f729446246f950185ee51f7a3d8cb8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/hooks.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/script-structure.md",
+      "sha256": "15fb989b4ad0fd117c8421e4b9b188eace03429ce7ddd7888c81e08a4a66ae35",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/script-structure.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/scripting-sins.md",
+      "sha256": "30e35fdbef644097d6f3a007d5776cd344591af8bf6903e5e50ab824fc059fba",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/scripting-sins.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/trinity-of-value.md",
+      "sha256": "3705ea8bf4d2a2b686384a5364d03bd0f0e39dd0da63de4adb54141aec53b855",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/trinity-of-value.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/references/voice-defaults.md",
+      "sha256": "353a31c352bc6f19c140557f89e2c76bbe430be7aad1d9da06a8c5b70bcbd063",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/references/voice-defaults.md"
+    },
+    {
+      "path": ".claude/skills/prime-script-engine/SKILL.md",
+      "sha256": "12d0225eebf69db5e3455f431eb17b37e83970dcab742bc515234939ed92f259",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-script-engine/SKILL.md"
     },
     {
       "path": ".claude/skills/prime-viral-hooks/references/viral-hook-frameworks.md",
