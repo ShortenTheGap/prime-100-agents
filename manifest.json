@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-08-26T07:59:10.381Z",
+  "version": 2,
+  "generatedAt": "2026-09-28T12:53:09.000Z",
   "files": [
     {
       "path": ".claude/agents/content-agent.md",
@@ -184,7 +184,7 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "a58de0982f509eb4b10dfd4e3bff8ca7c4a26fcd1ddb7b4b790103f2cbc93679",
+      "sha256": "09bae1566550923746d8635cb2b62a8ea2505ba035dd089d559172f5a625605b",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/CLAUDE.md"
     }
   ]

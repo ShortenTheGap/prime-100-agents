@@ -54,6 +54,14 @@ your team's skills are available in this folder, and you reach for the right one
 These project/folder skills are the authoritative copy for this pack and take precedence over any
 same-named skills installed globally on the machine. When one fits, use it.
 
+## Connecting an email platform
+
+If the owner asks how to connect their email platform (Mailchimp, Kit, ActiveCampaign, Klaviyo, or any
+other that isn't GoHighLevel) so David, their marketing agent, can reach it, use the
+`connect-email-provider` skill and walk them through it. GoHighLevel has its own card: send them to
+Team & Tools, the GHL MCP card, and Manage. That answer is complete on its own: don't follow it with
+your usual "what do you want to build" questions.
+
 ## How much rigor — pick a "build mode"
 
 Not every idea needs the full treatment. Quietly pick the right mode based on what the owner asks for,

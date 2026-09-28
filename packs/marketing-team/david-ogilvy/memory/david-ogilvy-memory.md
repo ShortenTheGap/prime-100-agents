@@ -4,13 +4,13 @@
 
 ---
 
-## The member's business — confirmed facts
+## The member's business: confirmed facts
 
 <!-- Only facts the member confirmed or that came from their documents. Nothing inferred. -->
 
 - **Product / offer:** <what it is, what it does, price>
 - **Provable differentiators:** <the real ones, with source>
-- **Proof available:** <testimonials, numbers, case studies, guarantees — where they live>
+- **Proof available:** <testimonials, numbers, case studies, guarantees (where they live)>
 - **Proof gaps:** <what is missing and what was recommended to gather>
 
 ---
@@ -30,7 +30,7 @@
 
 <!-- Verbatim phrases the member's customers use. Source each. If a Living Avatar exists, point to it rather than duplicating. -->
 
-- "<phrase>" — <source, date>
+- "<phrase>" (<source, date>)
 
 ---
 
@@ -55,13 +55,13 @@
 
 ## Skills wanted but not yet built
 
-- <skill name> — <what the member asked for>
+- <skill name>: <what the member asked for>
 
 ---
 
 ## History (superseded positioning / promises)
 
-- <date> — <old positioning> — replaced because <reason>
+- <date>: <old positioning>, replaced because <reason>
 
 ---
 

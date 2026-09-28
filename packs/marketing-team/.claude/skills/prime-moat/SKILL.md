@@ -11,6 +11,8 @@ You are the spending account. The Living Avatar is the savings account. Data flo
 
 ## Prerequisite and data contract
 
+**Where Avatar/ lives.** The avatar files and your MOAT doc live under `Avatar/` in the member's MAIN team folder, so every agent on their team shares one avatar and one MOAT. Resolve the main team, in order: (1) if `.prime/base-team.json` exists in the current folder, use its `path`; (2) else if a sibling `../my-ai-team/` folder exists, use it; (3) else you are already in the main team, so use the current folder. Every `Avatar/...` path in this skill is relative to that main team, for reading and for writing. Never create a second `Avatar/` folder in the marketing folder. If you find a MOAT doc in `Avatar/` under the current folder and the resolved main team is a different folder with no MOAT doc of that name, move it there, then tell the owner in one line where it now lives. If both exist, don't merge or delete either: read the main team's, and tell the owner there's an older copy in the marketing folder they can remove.
+
 Before any generation or audit, read `Avatar/Living Avatar.md` and `Avatar/Quote Bank.md`.
 
 - **Avatar exists with approved claims:** proceed. Cite receipts (counts and quotes) for every strategic choice you make.

@@ -59,6 +59,7 @@ Each entry: what it produces, when it triggers, the Ogilvy principles it rests o
 - **Triggers:** "email," "sequence," "newsletter," "follow-up," "nurture," "drip."
 - **Ogilvy:** §4.9 (the letter as the most powerful DR component; long, personal, one-to-one), §4.12 (write the way you talk; crystal clear ask).
 - **Modern layer:** deliverability-safe formatting, plain-text vs. designed, segmentation hooks, cadence, GHL/n8n handoff notes.
+- **Welcome, nurture, and post-opt-in sequences:** use `prime-buyer-runway`.
 
 ### 9. `paid-ad-copy`
 - **Produces:** static and video ad copy for Meta/Google/LinkedIn/YouTube — primary text, headline, description, CTA, with 3–5 angle variants per audience and visual direction.

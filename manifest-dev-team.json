@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-08-26T07:59:10.433Z",
+  "version": 2,
+  "generatedAt": "2026-09-28T12:53:09.029Z",
   "files": [
     {
       "path": ".claude/agents/code-reviewer.md",
@@ -101,6 +101,11 @@
       "path": ".claude/skills/brainstorming/visual-companion.md",
       "sha256": "a2bc6fc47d0df1df981d02f707a16225b147f462e7059175ad2bc5e6dd29fcae",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/dev-team/.claude/skills/brainstorming/visual-companion.md"
+    },
+    {
+      "path": ".claude/skills/connect-email-provider/SKILL.md",
+      "sha256": "78504f784d10b76d7f37f9740438db5adf73f851bd856e6832dbc49ecc186175",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/dev-team/.claude/skills/connect-email-provider/SKILL.md"
     },
     {
       "path": ".claude/skills/designer/SKILL.md",
@@ -639,7 +644,7 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "e8348aedcbb9086e24f3d1d43890d6731bb440273105c05089fcfa32e897abb3",
+      "sha256": "c6f3c3bb0342e8062dc9c8d9816fce52aae4308db19d17c40b34bb946b429eac",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/dev-team/CLAUDE.md"
     },
     {
