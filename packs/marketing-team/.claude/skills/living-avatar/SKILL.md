@@ -119,16 +119,16 @@ Deliver as a single message. Structure:
 Your avatar currently says: "[current claim, or 'nothing on this']"
 Your customers are saying: [pattern in one line]
 Evidence: [N] of the last [N] interactions.
-> "[verbatim quote]" — [ID], [source type], [date]
-> "[verbatim quote]" — [ID], [source type], [date]
-> "[verbatim quote]" — [ID], [source type], [date]
+> "[verbatim quote]", [ID], [source type], [date]
+> "[verbatim quote]", [ID], [source type], [date]
+> "[verbatim quote]", [ID], [source type], [date]
 **Approve, edit, or reject?**
 
 ## Confirmations (no action needed)
 [1-2 lines: which existing claims got reinforced this week]
 
 ## Hook candidates
-> "[sticky quote]" — worth testing as a hook or subject line.
+> "[sticky quote]": worth testing as a hook or subject line.
 
 ## Watching (below threshold)
 [Emerging patterns at 1-2 customers, one line each]

@@ -1,6 +1,6 @@
 # David Ogilvy — Marketing Manager agent for Prime 100 OS
 
-Phase one deliverable: the research and the agent definition. Phase two (the discrete skills) is indexed in `reference/skills-roadmap.md`.
+Phase one deliverable: the research and the agent definition. David's discrete skills now live in the pack's `.claude/skills/` folder (roster in the pack's root `CLAUDE.md`); `reference/skills-roadmap.md` is the historical Phase Two plan.
 
 ## What's here
 
@@ -15,7 +15,7 @@ david-ogilvy/
 │       └── SKILL.md                   ← core operating skill, always in force
 ├── reference/
 │   ├── research-dossier.md            ← the source of truth: biography, philosophy, frameworks, campaigns, voice, sourced quotes
-│   └── skills-roadmap.md              ← the 15 phase-two skills, with triggers and build order
+│   └── skills-roadmap.md              ← historical Phase Two plan (not the live skill list)
 └── .claude/
     └── agents/
         └── david-ogilvy.md            ← subagent registration for Sue's Task tool

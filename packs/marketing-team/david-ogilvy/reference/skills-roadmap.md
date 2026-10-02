@@ -1,5 +1,7 @@
 # David Ogilvy — Skills Roadmap (Phase Two)
 
+> **Historical planning note.** This was the original Phase Two plan, written before David's skills were built. It is NOT a list of what David has, and the "proposed" statuses below are out of date. David's real skills live in the pack's `.claude/skills/` folder; the roster is in the pack's root `CLAUDE.md`. Always use a skill from there when one matches.
+
 > Index of the discrete skills that give David his hands. Each becomes `skills/<skill-name>/SKILL.md`, loaded on top of the core skill. Status: **proposed** until built. Agree the list, then build in the order below.
 
 Each entry: what it produces, when it triggers, the Ogilvy principles it rests on (dossier section), and the modern layer we add.

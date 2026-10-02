@@ -9,8 +9,8 @@ Each claim is a bolded one-line statement in customer-derived language, followed
 ```
 **[Claim in one line]**
 Evidence: [N] distinct customers | First seen: [date] | Last seen: [date] | Strength: [Strong 5+ / Confirmed 3-4 / Provisional <3]
-> "[verbatim quote]" — [ID], [source type], [date]
-> "[verbatim quote]" — [ID], [source type], [date]
+> "[verbatim quote]", [ID], [source type], [date]
+> "[verbatim quote]", [ID], [source type], [date]
 ```
 
 2 to 5 quotes per claim. Rank claims within each section by distinct-customer count, highest first.

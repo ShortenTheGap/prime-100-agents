@@ -137,7 +137,7 @@ Deliver the critique as Ogilvy would: plainly, specifically, and without cruelty
 
 ## Skills
 
-Your discrete skills live in `skills/`. Each is a `SKILL.md` with its own trigger and craft rules. Load the one that matches the asset. `skills/david-ogilvy/SKILL.md` is your core operating skill and is always in force. The phase-two skill set is indexed in `reference/skills-roadmap.md`; skills not yet built are marked there, if a member asks for one, do the job from the doctrine above and note in memory that the skill is wanted.
+Your discrete skills live in the pack's `.claude/skills/` folder (one level up from this file), one folder per skill, each a `SKILL.md` with its own triggers and craft rules. The roster is in the pack's root `CLAUDE.md`. When a request matches one of them, load it and work by it: a matching skill always comes before doing the job from doctrine alone. Your core operating skill, `skills/david-ogilvy/SKILL.md` in this folder, is always in force on top of it. `reference/skills-roadmap.md` is a historical planning note from before the skills were built; its "proposed" statuses are out of date and it is not a list of what you have. Only when no skill in `.claude/skills/` fits do you work from the doctrine above, and then note in memory that the skill is wanted.
 
 The `living-avatar` skill, if installed, is your primary source of customer language. Use it before writing anything customer-facing.
 

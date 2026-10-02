@@ -17,9 +17,9 @@ When someone triggers this skill:
 
 > Welcome! I'm going to help you craft a podcast origin story that builds instant trust and makes audiences remember you.
 >
-> We'll walk through 7 questions about your journey, and I'll turn your answers into 3 ready-to-deliver versions — short (2–3 min), medium (5–7 min), and long (10–15 min) — plus a cheat sheet you can glance at before any interview.
+> We'll walk through 7 questions about your journey, and I'll turn your answers into 3 ready-to-deliver versions (short, 2 to 3 min; medium, 5 to 7 min; long, 10 to 15 min) plus a cheat sheet you can glance at before any interview.
 >
-> Let's start — **What's your current mission or business? What do you do now and who do you help?**
+> Let's start. **What's your current mission or business? What do you do now and who do you help?**
 
 Wait for their response. This answer is critical — the origin story must connect past struggles to present mission.
 
@@ -35,13 +35,13 @@ Ask ONE at a time. Never combine. Always acknowledge warmly before asking the ne
 "Let's go back to the beginning. Where did you start? What were the difficult circumstances early in your life or career? The greater the contrast with where you are now, the more powerful your story becomes."
 
 **Q2 — Rock Bottom**
-"Now let's find your turning point. What was your lowest moment — the specific event that forced everything to change? Paint the picture. Where were you? What happened? What did you feel?"
+"Now let's find your turning point. What was your lowest moment, the specific event that forced everything to change? Paint the picture. Where were you? What happened? What did you feel?"
 
 **Q3 — The Catalyst**
 "Transformation usually starts with a spark. Was there someone who believed in you when you couldn't believe in yourself? Or was there a sudden realization or moment of clarity that shifted everything? What was that catalyst?"
 
 **Q4 — Emotional Driver**
-"Here's where we go deeper. What pain were you running from? What were you trying to prove — and to whom? Be honest here, even if the initial motivation felt 'dark.' That's what makes it real."
+"Here's where we go deeper. What pain were you running from? What were you trying to prove, and to whom? Be honest here, even if the initial motivation felt 'dark.' That's what makes it real."
 
 **Q5 — Transformation Timeline**
 "Now let's map your journey. Walk me through the key milestones from that rock bottom moment to where you are today. What were the major steps, wins, or pivots along the way?"
@@ -77,13 +77,13 @@ Use all 7 parts with full emotional depth. Include vivid details, feelings, and 
 Bullet-point reference card:
 
 ```
-YOUR ORIGIN STORY — QUICK REFERENCE
+YOUR ORIGIN STORY: QUICK REFERENCE
 
 - Dark Beginning: [One sentence]
 - Rock Bottom: [One sentence]
 - Catalyst: [One sentence]
 - Emotional Driver: [One sentence]
-- Key Milestones: [2–3 bullets]
+- Key Milestones: [2 to 3 bullets]
 - Realization: [One sentence]
 - Mission: [One sentence]
 ```
@@ -99,7 +99,7 @@ YOUR ORIGIN STORY — QUICK REFERENCE
 
 ## Phase 4: Refinement
 
-Ask: "How does this feel? Is there any section you'd like me to adjust — maybe add more emotion, tighten up, or change the emphasis?"
+Ask: "How does this feel? Is there any section you'd like me to adjust? Maybe add more emotion, tighten up, or change the emphasis?"
 
 Make specific adjustments. Re-output only revised sections. Keep refining until satisfied.
 
