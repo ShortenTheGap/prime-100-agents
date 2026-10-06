@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "generatedAt": "2026-10-02T12:41:56.985Z",
+  "version": 9,
+  "generatedAt": "2026-10-06T14:59:49.695Z",
   "files": [
     {
       "path": ".claude/agents/close-checker.md",
@@ -146,6 +146,61 @@
       "path": ".claude/skills/prime-moat/SKILL.md",
       "sha256": "eb803b6400ba6428415ae3f81a0eeb577f0b2d8c9f0b2a2e22ebee67b210db8f",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-moat/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/assets/decision-log-template.md",
+      "sha256": "55f4f94caf33d6f4a8604f56f790fa97338978050503ea70a9b99ac85c96a1e8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/assets/decision-log-template.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/assets/next-test-template.md",
+      "sha256": "8f7c8d67f13b605c8963737ae4ea0c03501fd1744733562612535a2f4eef4c31",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/assets/next-test-template.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/assets/offer-review-template.md",
+      "sha256": "88da58ca0c1fad4ff153040f1768118eb6579974ebb86d8e17e9ce563f5f9cb1",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/assets/offer-review-template.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/assets/offer-template.md",
+      "sha256": "791142c6acd064d236420f0a03ae8166ffdb628b4be0fe607f019694e6001db8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/assets/offer-template.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/evals/cases.md",
+      "sha256": "3c22c4a9178995d2b84535fe23ebfb06241f9e47a6b00fbe7ff81c3d2ae7b19d",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/evals/cases.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/references/offer-principles.md",
+      "sha256": "8d7be4d69be54ffd6d3a080c297fe12d2cfa91defaa34829b1335b3e5c62ad9f",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/references/offer-principles.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/references/process-explanation.md",
+      "sha256": "0a6ce368c0d0795a61a533fa63bae9cca51e9df86b55ca28aa87d94dbea361a7",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/references/process-explanation.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/references/review-rubric.md",
+      "sha256": "c876fc40314976de4b004c58b5b6122f874fefd273bd56d1388130309100a5b1",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/references/review-rubric.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/references/weak-to-strong.md",
+      "sha256": "6574e50929d68671e97a80d7afae36627b13b909af4ec0a5df49e886210e77ca",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/references/weak-to-strong.md"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/scripts/delivery-economics.mjs",
+      "sha256": "0e0c6781c8e48e8b7d602b95c9a9a974f989a8b419b7cdbc7a6f65a0d2a7a3f9",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/scripts/delivery-economics.mjs"
+    },
+    {
+      "path": ".claude/skills/prime-offer-optimizer/SKILL.md",
+      "sha256": "4455b3cd0f94d1e5b99a5660a96eee231ef594163a5eb847ca360436304a28ed",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-offer-optimizer/SKILL.md"
     },
     {
       "path": ".claude/skills/prime-origin-story/SKILL.md",
@@ -319,7 +374,7 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "a4a402cb2b33069c40ddde0a2451ceff0d74cb01d3df3763002736593615c045",
+      "sha256": "0f5ed1134b79ff4ead3ae0231988697d3f02174e4a227b0df94b02f8145909f3",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/CLAUDE.md"
     },
     {
