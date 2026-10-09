@@ -6,7 +6,7 @@ Use this exact structure for `Avatar/Buyer Runway Build Sheet.md` (in the main t
 
 - **Sendable copy only.** Subjects, preview text, bodies, links, settings, steps. Never Notes, claim sources, asset status, or client permission notes; those stay in `Avatar/Buyer Runway.md`.
 - **One version.** The sheet reflects exactly one approved copy version and says which in its header. On any new copy version, regenerate it in full (ticked boxes reset) and tell the owner in chat: "Your Build Sheet now reflects version [X.Y]. Any boxes you ticked are reset, because the emails changed."
-- **One build section.** Include only the section 4 for the owner's platform: "Build it in GoHighLevel" or "Build it in [platform]". Never both.
+- **One build section.** Include only the section 4 for the owner's platform: "Build it in GoHighLevel" or "Build it in [platform]". Never both. On a Route A+ build the GoHighLevel section 4 becomes "Already built for you" and sections 5 and 6 change with it; the replacements are in Section notes.
 - **Preview text comes from the approved copy.** Copy it exactly as approved in `Avatar/Buyer Runway.md`. Never write it here. An email with no approved preview text gets `[FILL IN: preview text]`, listed in "Fix these first".
 - **Placeholders stay visible.** Every missing value is `[FILL IN: what is missing]`, uppercase, and every one is also listed in "Fix these first". Never fill a placeholder with a guess.
 - **Order follows the doing.** Fix blockers, check settings, put the emails in, build the sequence, test it, turn it on. Reference material goes last.
@@ -32,6 +32,7 @@ Keep template names (they contain `|`) out of tables.
 | State | What the header shows |
 |---|---|
 | Copy approved, build not yet authorized | Add the line "Draft: David hasn't been asked to build this yet." |
+| Route A+ build | The NOT LIVE line becomes "**NOT LIVE. Your emails and the part that sends them are built and switched off. Only you can switch it on, from the email GoHighLevel sent you.**" |
 | Route A partial build | Emails not created carry "not in GoHighLevel yet" on their template line. |
 | Route E partial build | Emails not created carry "not in [platform] yet" in place of their draft line. |
 | Live | The NOT LIVE line becomes "**LIVE since [date], version [X.Y].**" (recorded from the owner's word). |
@@ -204,6 +205,7 @@ Not built. Ask David if you want your current list to get this too.
 **The emails.** The heading is always "Email N of T: Day D", never the subject, so a heading never carries a placeholder or a pipe. Two emails on the same day: the second's "Sends" line uses hours ("Day 30, 4 hours after Email 14"). A horizontal rule after every block.
 
 The "GoHighLevel template" line:
+- Route A+: leave the line out. The emails live inside the sequence, not as separate templates.
 - Route A: the template name, then "(already in your account)".
 - Route B or by hand in GoHighLevel: "Create it with this name:" then `Buyer Runway v[X.Y] | Day [DD] | E[NN] | [subject]`.
 - Route E: replace it with a "[platform] draft" line: the name, then "(already in your account)".
@@ -212,6 +214,45 @@ The "GoHighLevel template" line:
 **Build it in GoHighLevel.**
 - Route A: 4a becomes one line: "Done for you. All [N] emails are already in your account as templates, named as shown in section 3. Go to 4b."
 - Route B: the bracketed names (calendar, pipeline, won stage, existing nurture workflows) are the real names you read from the account. A name you couldn't find is `[FILL IN: your booking calendar]` and goes in section 1.
+
+**Route A+: built for you** (David created the emails and the part that sends them). Sections 4, 5 and 6 are replaced in full by the ones below. "Start here" says "A minute today and two minutes tomorrow to check the test, then switch it on when you're ready" in place of the build minutes, and its "How this works" list becomes: fix what's open (section 1), check your settings (section 2), check the test David sends you (section 5), switch it on once the test passes (section 6). In "Your settings", "If anything is wrong, tell David before you build" becomes "If anything is wrong, tell David."
+
+```
+## 4. Already built for you
+
+Nothing here for you to build. In "[account name]" there is now:
+
+- Your emails, saved together as **Buyer Runway v[X.Y] (new leads)**, in the order and on the days shown in section 3.
+- The part that sends them, switched off.
+
+| What it does | Yours |
+|---|---|
+| Starts when a contact | [gets the tag [tag] / fills in "[form name]"] |
+| Leaves early when they | [buy / book on "[calendar name]" / reach "[won stage]"] |
+| Sends at | [hour], [timezone] |
+| Comes from | [sender name] |
+
+If any of that is wrong, tell David. Changing it switches the runway off until you switch it back on, and you get a fresh email to switch it back on with.
+
+## 5. Test it on yourself
+
+- [ ] 5.1 Tell David "test it". The real sequence goes to your own address and nobody else's.
+- [ ] 5.2 Email 1 arrives in a minute or two. Check the from name, that your first name shows (not blank, not braces), that the links open the right page, and that it looks right on your phone.
+- [ ] 5.3 Tomorrow, email 2 arrives on its real day. Reply to it and check the reply reaches [reply owner].
+- [ ] 5.4 Tell David "the test passed", or what went wrong.
+
+## 6. Turn it on
+
+Only you do this, and only after the test passed.
+
+- [ ] 6.1 Every box in section 1 is ticked.
+- [ ] 6.2 Open the email from GoHighLevel about your Buyer Runway. The page it opens shows every email and what starts and stops them.
+- [ ] 6.3 Decide the tickbox: "Also send it to contacts who already have the tag". Unticked, only people tagged from now on get the runway. Ticked, up to 200 people who already have the tag start it too.
+- [ ] 6.4 Press the button to switch it on.
+- [ ] 6.5 Tell David "it's live" so he records the date and version.
+
+The link lasts 7 days. If it has expired or you can't find the email, tell David and he'll have a fresh one sent.
+```
 
 **Build it in [platform]** (every platform other than GoHighLevel; plain words, never invented screens). Replaces the GoHighLevel section 4 entirely:
 
@@ -247,4 +288,4 @@ In "Test it on yourself" on another platform, use the same steps in plain words:
 - If it was built as a GoHighLevel sequence: "Built, nothing sent. To send it, ask David in a new message: "send the Backfill to my list". He'll read back who gets it and wait for your yes."
 - If sending from here isn't available, the turn-on is "add the tag runway-backfill to the contacts in [segment]" in GoHighLevel, or the platform equivalent.
 
-**Rules this sequence follows.** Plain sentences, covering: who gets it; who never gets it; when someone leaves early; unsubscribe, bounce, and complaint handling; the newsletter overlap ("New leads are in this runway for 30 days. Your regular newsletter resumes for them on Day 31."); what happens after Day 30; deadline logic (none, or the exact real rule); personalization fields with their blank fallback; what to track (replies, clicks, bookings, sales).
+**Rules this sequence follows.** Plain sentences, covering: who gets it; who never gets it; when someone leaves early; unsubscribe, bounce, and complaint handling; the newsletter overlap ("New leads are in this runway for 30 days. Your regular newsletter resumes for them on Day 31."); what happens after Day 30; deadline logic (none, or the exact real rule); personalization fields with their blank fallback; what to track (replies, clicks, bookings, sales). On a Route A+ build, also: a new lead is picked up within about a minute of getting the tag; the exits are checked right before every send; every email carries an unsubscribe link and the business address automatically, and an unsubscribe ends the runway for that person and marks them do-not-email in GoHighLevel; contacts partway through carry the tag in-runway and finished contacts carry runway-complete, and neither tag should be deleted; the account sends up to 200 of these emails a day.
