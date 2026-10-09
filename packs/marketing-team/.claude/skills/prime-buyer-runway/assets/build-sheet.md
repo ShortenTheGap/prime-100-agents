@@ -32,7 +32,7 @@ Keep template names (they contain `|`) out of tables.
 | State | What the header shows |
 |---|---|
 | Copy approved, build not yet authorized | Add the line "Draft: David hasn't been asked to build this yet." |
-| Route A+ build | The NOT LIVE line becomes "**NOT LIVE. Your emails and the part that sends them are built and switched off. Only you can switch it on, from the email GoHighLevel sent you.**" |
+| Route A+ build | The NOT LIVE line becomes "**NOT LIVE. Your emails and the part that sends them are built and switched off. Only you can switch it on, from the Prime AI email sent to the address you connected GoHighLevel with.**" |
 | Route A partial build | Emails not created carry "not in GoHighLevel yet" on their template line. |
 | Route E partial build | Emails not created carry "not in [platform] yet" in place of their draft line. |
 | Live | The NOT LIVE line becomes "**LIVE since [date], version [X.Y].**" (recorded from the owner's word). |
@@ -246,7 +246,7 @@ If any of that is wrong, tell David. Changing it switches the runway off until y
 Only you do this, and only after the test passed.
 
 - [ ] 6.1 Every box in section 1 is ticked.
-- [ ] 6.2 Open the email from GoHighLevel about your Buyer Runway. The page it opens shows every email and what starts and stops them.
+- [ ] 6.2 Open the email from Prime AI (admin@mail.primelive.ai), subject "Confirm: Switch on the email sequence". It went to the address you connected GoHighLevel with. The page it opens shows every email and what starts and stops them.
 - [ ] 6.3 Decide the tickbox: "Also send it to contacts who already have the tag". Unticked, only people tagged from now on get the runway. Ticked, up to 200 people who already have the tag start it too.
 - [ ] 6.4 Press the button to switch it on.
 - [ ] 6.5 Tell David "it's live" so he records the date and version.
