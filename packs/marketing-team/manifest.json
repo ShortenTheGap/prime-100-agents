@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "generatedAt": "2026-10-06T14:59:49.695Z",
+  "version": 10,
+  "generatedAt": "2026-10-09T18:33:07.780Z",
   "files": [
     {
       "path": ".claude/agents/close-checker.md",
@@ -54,7 +54,7 @@
     },
     {
       "path": ".claude/skills/prime-buyer-runway/assets/build-sheet.md",
-      "sha256": "80ce7273b71c773addb5e9434f77d904f671ce313c3d6ad9e0df20c39663d97d",
+      "sha256": "681b09f017f55f3453be919cfbc1f9b96ed7ee330276497f5939427155a1ca61",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-buyer-runway/assets/build-sheet.md"
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "path": ".claude/skills/prime-buyer-runway/SKILL.md",
-      "sha256": "60db2e8fdf33ffb45f445a2c6f996ba52f9d305bab24b90cef4b9d02ff9faa1b",
+      "sha256": "eacec4a4e828b965d6e991146acc57c4dfdac99e13d05e0dd8317cbe51b13ca1",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-buyer-runway/SKILL.md"
     },
     {
