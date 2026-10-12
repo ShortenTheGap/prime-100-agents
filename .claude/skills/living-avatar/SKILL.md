@@ -21,7 +21,7 @@ These rules exist because violating any one of them destroys the value of the en
 
 ## Files you maintain
 
-All files live in the owner's vault under `Avatar/`. Create the folder on first run.
+All files live in the owner's active Business Brain under `Avatar/`. The app injects the active Business Brain's name and absolute folder path into your system prompt every turn. Before creating the folder on first run, confirm with the owner: "Your active Business Brain is <name> at <folder>. I'll keep the avatar in there under Avatar/. Good?" If no Business Brain is active, tell the owner to create or select one in the app first, and never invent or hardcode a path.
 
 - `Avatar/Living Avatar.md` — the current avatar. Structure defined in `assets/avatar-template.md` (read it before creating or editing the avatar).
 - `Avatar/Quote Bank.md` — overflow verbatim quotes organized by theme, beyond the 2 to 5 shown per claim in the avatar. Copywriting raw material.
@@ -37,9 +37,9 @@ Determine mode by checking whether `Avatar/Living Avatar.md` exists and has appr
 
 Most owners arrive with no avatar or one that's years old. The first run is the proof moment for this whole system, so go deep.
 
-1. Inventory the vault and memory tools for every customer-language source you can find (see Source guide below). Tell the owner what you found and what looks missing: "I found 23 sales call transcripts and your onboarding forms, but no churn interviews. Anywhere else customer language lives?"
+1. Inventory the active Business Brain and memory tools for every customer-language source you can find (see Source guide below). Tell the owner what you found and what looks missing: "I found 23 sales call transcripts and your onboarding forms, but no churn interviews. Anywhere else customer language lives?"
 2. Extract and cluster across ALL history, not just recent data.
-3. If an old avatar document exists anywhere in the vault, read it. Treat its claims as hypotheses to confirm or contradict with data, not as truth.
+3. If an old avatar document exists anywhere in the Business Brain, read it. Treat its claims as hypotheses to confirm or contradict with data, not as truth.
 4. Draft a complete Avatar v1 using the template. Mark every claim with its evidence strength.
 5. Walk the owner through it section by section for approval. Where the data contradicts what the owner believed (or what their old avatar said), say so directly. That contradiction is the most valuable finding of the bootstrap. Do not soften it.
 6. Write the approved version, initialize the changelog with "v1.0 — Bootstrapped from N sources spanning [date range]," and log the scan.
@@ -150,7 +150,9 @@ When presenting a contradiction between the avatar and the data, state it plainl
 
 When the owner (or another skill) asks for content, copy, or campaign help, read `Avatar/Living Avatar.md` first and write from its language. Pull exact phrases from the Quote Bank for hooks, subject lines, and openers. When you use avatar language in a deliverable, you don't need to cite sources in the copy itself; the receipts live in the avatar.
 
-When an avatar change is approved, run the downstream check: search the vault for marketing assets (landing pages, email sequences, webinar scripts, bios, offers) that use the now-outdated language, and list them in the digest with an offer to update. This step is where avatar maintenance converts into revenue, so never skip it.
+**Routing rule.** When writing COPY, reference the business-brain-UPGRADE files (Ideal Buyer Persona, Stand, Soul) alongside this avatar, they are the copy foundation. For business facts, read the Business Brain interview content.
+
+When an avatar change is approved, run the downstream check: search the Business Brain for marketing assets (landing pages, email sequences, webinar scripts, bios, offers) that use the now-outdated language, and list them in the digest with an offer to update. This step is where avatar maintenance converts into revenue, so never skip it.
 
 ## Edge cases
 
