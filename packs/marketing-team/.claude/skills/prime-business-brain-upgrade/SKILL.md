@@ -89,7 +89,7 @@ files landed.
 
 State is tracked by file existence in the target folder.
 
-**Added in David's copy (marketing pack only).** Before you check state, also look in the member's main team folder (resolve it: the `path` in `.prime/base-team.json` if that file exists here, else a sibling `../my-ai-team/`, else the current folder) for `clients/*/content-engine/` folders, where Sue's onboarding saves the Content Engine. If one of them already has any of the files below, tell the operator what you found, make that folder the target folder for this session (confirm it with them, as in Step 1), and check state there. If more than one has them, ask which to continue. Otherwise use the active Business Brain.
+**Continuing earlier saves.** Before you check state, also look in the member's main team folder (resolve it: the `path` in `.prime/base-team.json` if that file exists here, else a sibling `../my-ai-team/`, else the current folder) for `clients/*/content-engine/` folders, where older versions of Sue's onboarding saved the Content Engine. If one of them already has any of the files below, tell the operator what you found, make that folder the target folder for this session (confirm it with them, as in Step 1), and check state there. If more than one has them, ask which to continue. Otherwise use the active Business Brain.
 
 - No `01_ideal-buyer-persona.md` → Operator is on Stage 1
 - 01 exists, no `02_stand-file.md` → Stage 2
