@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generatedAt": "2026-09-28T12:53:09.000Z",
+  "version": 3,
+  "generatedAt": "2026-10-12T20:12:34.719Z",
   "files": [
     {
       "path": ".claude/agents/content-agent.md",
@@ -26,6 +26,26 @@
       "path": ".claude/commands/setup.md",
       "sha256": "0a01b3fbb36d621930cc5c9386a7900eee6d6a68f1f02cccd5a5c5aeb9f24402",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/setup.md"
+    },
+    {
+      "path": ".claude/skills/business-brain/evidence-locker.md",
+      "sha256": "dd64f9288cd4de9feef7bda8447436d52aee5ebccfdf136a31e376629f2dddc6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/business-brain/evidence-locker.md"
+    },
+    {
+      "path": ".claude/skills/business-brain/interview.md",
+      "sha256": "558cb259ed3746cd1e518acf9a8a1785151a436969721c01bd9915a7588940ad",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/business-brain/interview.md"
+    },
+    {
+      "path": ".claude/skills/business-brain/SKILL.md",
+      "sha256": "bfce8ba5ee424418a4ec7986fdac602e64147981de627eb22ae857b4eb4b6c19",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/business-brain/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/business-brain/vault-structure.md",
+      "sha256": "75da8511b5b625931c08f84ae2c21475de71cc50a7b5245e708501877164dd3c",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/business-brain/vault-structure.md"
     },
     {
       "path": ".claude/skills/hello-prime/SKILL.md",
@@ -168,6 +188,31 @@
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-3f-framework/SKILL.md"
     },
     {
+      "path": ".claude/skills/prime-business-brain-upgrade/references/ideal-buyer.md",
+      "sha256": "606dfff06aed61d1aa44e10dc5ea0bf0535e762b9b68158a16ecd51c01337013",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/references/ideal-buyer.md"
+    },
+    {
+      "path": ".claude/skills/prime-business-brain-upgrade/references/slop-filter.md",
+      "sha256": "25b5fa2ea584ff61cf18018c31fe4c2456956285109904687506d3367b846116",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/references/slop-filter.md"
+    },
+    {
+      "path": ".claude/skills/prime-business-brain-upgrade/references/soul-extractor.md",
+      "sha256": "678e033be4dd4e6eb811fef6735e496c42c0f9ab0c28d6a2ca0fd9b2283b7a61",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/references/soul-extractor.md"
+    },
+    {
+      "path": ".claude/skills/prime-business-brain-upgrade/references/stand-challenger.md",
+      "sha256": "aebaee4f7d267ce3d2fd2f65d6809e504aebbd55ce8b59df9a08694959ef26f5",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/references/stand-challenger.md"
+    },
+    {
+      "path": ".claude/skills/prime-business-brain-upgrade/SKILL.md",
+      "sha256": "1e2c487d50256698d33b56cd7ff4dcd169b54eb57dfa01aa77924d8be5bc146b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/SKILL.md"
+    },
+    {
       "path": ".claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx",
       "sha256": "1b8a5a798d49b67515277b0c885029d41f3adc5401556a1a54571f4b92a2d8ce",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx"
@@ -184,7 +229,7 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "09bae1566550923746d8635cb2b62a8ea2505ba035dd089d559172f5a625605b",
+      "sha256": "73e67804e3622bdc19da9d048984ff053c52ff016ddf14e466b4f35faf185a50",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/CLAUDE.md"
     }
   ]
