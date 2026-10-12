@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-10-12T20:12:34.719Z",
+  "version": 4,
+  "generatedAt": "2026-10-12T20:51:01.983Z",
   "files": [
     {
       "path": ".claude/agents/content-agent.md",
@@ -23,9 +23,39 @@
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/agents/research-agent.md"
     },
     {
+      "path": ".claude/commands/brief.md",
+      "sha256": "f9c0012587347c4a50678b0df6b0d090500834bcc87d2621be7c4ef14450c15f",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/brief.md"
+    },
+    {
+      "path": ".claude/commands/cash-scan.md",
+      "sha256": "f19957e61b5187b2d80c155f4973c18ff9b75b2f227643702f2cd3a0fe953fe8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/cash-scan.md"
+    },
+    {
+      "path": ".claude/commands/followups.md",
+      "sha256": "04c4594712489d0586318e7b0d18cc24da393d449496c62d7004915b33110413",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/followups.md"
+    },
+    {
+      "path": ".claude/commands/prep.md",
+      "sha256": "1544c831ed4ee916ec88eeaa8ff8ff07c2cf8215e4f343d09b2d218b15846f48",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/prep.md"
+    },
+    {
+      "path": ".claude/commands/reactivate.md",
+      "sha256": "13112cebe5e8c63ba7f8f31cc06a7fa89520c0f0dbc4b399650a9b00f74450b7",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/reactivate.md"
+    },
+    {
       "path": ".claude/commands/setup.md",
       "sha256": "0a01b3fbb36d621930cc5c9386a7900eee6d6a68f1f02cccd5a5c5aeb9f24402",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/commands/setup.md"
+    },
+    {
+      "path": ".claude/guardrails/POLICY.md",
+      "sha256": "4f61fd2b8ca109318ad21bf74ac2f5b2fb7ee1ea20b09138f9d9c89279085b75",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/guardrails/POLICY.md"
     },
     {
       "path": ".claude/skills/business-brain/evidence-locker.md",
@@ -46,6 +76,16 @@
       "path": ".claude/skills/business-brain/vault-structure.md",
       "sha256": "75da8511b5b625931c08f84ae2c21475de71cc50a7b5245e708501877164dd3c",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/business-brain/vault-structure.md"
+    },
+    {
+      "path": ".claude/skills/crm-cash-scan/SKILL.md",
+      "sha256": "7ec3ceab346fa3d572e53472fbba64e0714be6be048a8eb3f0ebe59367e2fc4c",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/crm-cash-scan/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/guardrails/SKILL.md",
+      "sha256": "d37d45754ba86782360586429ce64ef52300a400b39eadc39b0712569fd1b484",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/guardrails/SKILL.md"
     },
     {
       "path": ".claude/skills/hello-prime/SKILL.md",
@@ -73,13 +113,18 @@
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/inbox-pipeline-audit/SKILL.md"
     },
     {
+      "path": ".claude/skills/lead-reactivation/SKILL.md",
+      "sha256": "9988976b8ef0ddef99bd3aaf6cce6ad58dc81a7d267d82d77331a3ecda9cc982",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/lead-reactivation/SKILL.md"
+    },
+    {
       "path": ".claude/skills/living-avatar/assets/avatar-template.md",
       "sha256": "5a545694e1735596e46cf0cbaf8e66d6bc78725e83402a8cb0c5851691ed8145",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/living-avatar/assets/avatar-template.md"
     },
     {
       "path": ".claude/skills/living-avatar/SKILL.md",
-      "sha256": "8027c9f28232b82a55ca227e623f6228803cf3b7f738f09a5b3c1adb4605fc28",
+      "sha256": "7124523a5316833168b3d5d2d149adcd59ebba342e33198fa2621c8a537ba272",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/living-avatar/SKILL.md"
     },
     {
@@ -154,7 +199,7 @@
     },
     {
       "path": ".claude/skills/loop-maker/SKILL.md",
-      "sha256": "3b3ac691a21fd0de6806b1cb0d8635afd683b0ab39144c79aaca5b12ee85d082",
+      "sha256": "f437d6ee3f6d3068e96cfb1e591d1a8bb631e4441485927dfd14c2935a95d538",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/loop-maker/SKILL.md"
     },
     {
@@ -211,6 +256,36 @@
       "path": ".claude/skills/prime-business-brain-upgrade/SKILL.md",
       "sha256": "1e2c487d50256698d33b56cd7ff4dcd169b54eb57dfa01aa77924d8be5bc146b",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-business-brain-upgrade/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/assets/template.docx",
+      "sha256": "2b851bf994c02656b61bc13dc7bdce8ce13f4e620d5d939e0c07ca6d9f66b01b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/assets/template.docx"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/references/config_format.md",
+      "sha256": "d66a873e46cf52fe081a7cf6a9262c977d88f81337190235533d423a611a8270",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/references/config_format.md"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/references/prep_format.md",
+      "sha256": "050a5c3e67e8fc3e9c9727692fa8363d3406bdc3a7b9825f1542fa24e330e2a9",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/references/prep_format.md"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/references/sources.md",
+      "sha256": "f83de7444311d6cf020551c19047ca0771f190a0aa77f01a4f18b1ca1a3621c2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/references/sources.md"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/scripts/render_prep_docx.py",
+      "sha256": "811fbaea3abec1729c4e1071336e1f063660bc3f0dd20869dc85f20cd43a3eba",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/scripts/render_prep_docx.py"
+    },
+    {
+      "path": ".claude/skills/prime-call-prep/SKILL.md",
+      "sha256": "3d94c10790d2e57836372246cc00e9d18a24a6068e7520ace201b393abef03f8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/.claude/skills/prime-call-prep/SKILL.md"
     },
     {
       "path": ".claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx",

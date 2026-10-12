@@ -37,6 +37,23 @@ position) lives in `STATE.md`, which the loop reads and writes. Mutable state in
 a `SKILL.md` is the anti-pattern: it silently disappears the moment the next run
 reloads the skill from disk.
 
+### A new STATE field must be optional, and its absence must fail open
+
+`STATE.md` is delivered **create-only**: the team-pack sync writes it when a loop
+first arrives and never touches it again, because it holds the owner's live
+cursors and overwriting one would lose their place. Everything else in the loop
+folder updates normally.
+
+The consequence is the rule. Add a field to `STATE.md` and existing installs will
+never receive it — their file stays exactly as their loop last wrote it. So
+anything reading a new field must treat "missing" as a normal state and choose
+the safe answer, which for a pre-check means *run the turn*.
+
+`call-prep/precheck.sh` is the worked example: an unreadable or absent `swept_on`
+runs the iteration rather than skipping it, so a loop installed before the field
+existed keeps working and simply re-earns the optimisation once it writes one.
+Never gate work on a field that might not be there yet.
+
 ---
 
 ## Where loops run (read this first — the host matters)
