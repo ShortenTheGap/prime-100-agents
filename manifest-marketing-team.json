@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "generatedAt": "2026-10-09T18:33:07.780Z",
+  "version": 11,
+  "generatedAt": "2026-10-12T20:51:52.055Z",
   "files": [
     {
       "path": ".claude/agents/close-checker.md",
@@ -49,7 +49,7 @@
     },
     {
       "path": ".claude/skills/prime-business-brain-upgrade/SKILL.md",
-      "sha256": "45fdb32e356d4d2f913a29d9a6da4722db10bf422ed9a7d48178b98df4f498ac",
+      "sha256": "1e2c487d50256698d33b56cd7ff4dcd169b54eb57dfa01aa77924d8be5bc146b",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/.claude/skills/prime-business-brain-upgrade/SKILL.md"
     },
     {
@@ -374,12 +374,12 @@
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "0f5ed1134b79ff4ead3ae0231988697d3f02174e4a227b0df94b02f8145909f3",
+      "sha256": "89fdd5ea1938820e9c461071604f6f940ef6f18ebbc7c43ee398a9fbb6622d91",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/CLAUDE.md"
     },
     {
       "path": "david-ogilvy/CLAUDE.md",
-      "sha256": "61eca46adb5be4c8b42bbcb5b1027bd21e152fbe4b091e34ead412711697d94e",
+      "sha256": "7060e9cc9e70d2606c5aa69b8d5bd57d050cada6999271004acfb5038cbd4bf4",
       "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/marketing-team/david-ogilvy/CLAUDE.md"
     },
     {
