@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-20T16:06:47.132Z",
+  "files": [
+    {
+      "path": ".claude/agents/charlie-munger.md",
+      "sha256": "942b26f6ffc96703e26e765e14455ce4d76e28b2dd2cde5de85ec007755996d7",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/.claude/agents/charlie-munger.md"
+    },
+    {
+      "path": ".claude/skills/charlie-munger/SKILL.md",
+      "sha256": "12e975b84d2143777809619a4b2294029c72bfd6564ccfb3f52bad14fe0b5455",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/.claude/skills/charlie-munger/SKILL.md"
+    },
+    {
+      "path": ".pad-pack.json",
+      "sha256": "05e71aef80b31dee37f9e7b4e6acabae5cbdcbd76232dea1e358561101924613",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/.pad-pack.json"
+    },
+    {
+      "path": "charlie-munger/CLAUDE.md",
+      "sha256": "e24c6d27702391482f34b8e75369996ae5756284e96b1cec580f5bf10bd5e2fc",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/charlie-munger/CLAUDE.md"
+    },
+    {
+      "path": "charlie-munger/memory/charlie-munger-memory.md",
+      "sha256": "6dd954d158ebd6e79f360c64512e28f73886ea4adb5433bc0a2d586a5150f94b",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/charlie-munger/memory/charlie-munger-memory.md"
+    },
+    {
+      "path": "charlie-munger/reference/research-dossier.md",
+      "sha256": "c92e8ee2d11a5a59eb61f8745e8e7c85eee44e91785781b7812f402c857e41f0",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/charlie-munger/reference/research-dossier.md"
+    },
+    {
+      "path": "charlie-munger/reference/skills-roadmap.md",
+      "sha256": "834d7ff8509504d3377c94e7140d6c48942979078f100310c1e9ef0f2126feef",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/charlie-munger/reference/skills-roadmap.md"
+    },
+    {
+      "path": "charlie-munger/skills/charlie-munger/SKILL.md",
+      "sha256": "e1b465d6e47bf4b389c17041b4698aee92f350dea2eb31c99240e533172862a8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/charlie-munger/skills/charlie-munger/SKILL.md"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "1a32df54a4a04ffa0e7b53559eb9cc1ed06dacb5f0aeac4ccfb5dd3f4452afff",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/CLAUDE.md"
+    },
+    {
+      "path": "shared/brand-voice.md",
+      "sha256": "096f8cdb56fe6b194b6bae14970714e6648529e09d81faecc481d890581ee596",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/shared/brand-voice.md"
+    },
+    {
+      "path": "shared/company-context.md",
+      "sha256": "acb83312b7d0cf1e77bb85dd6e28919cce330d5dd2ee99e3a96d97bf3ec7f4bd",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/shared/company-context.md"
+    },
+    {
+      "path": "WELCOME.md",
+      "sha256": "ceffdf44bf782906e1864e50f360842e939cd91ed45e1717e2be339f2629a174",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/finance-team/WELCOME.md"
+    }
+  ]
+}

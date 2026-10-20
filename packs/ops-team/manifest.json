@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-20T16:06:46.854Z",
+  "files": [
+    {
+      "path": ".claude/agents/peter-drucker.md",
+      "sha256": "d23960baae53ef6370fe0701df402895324e6a2e6187b09a50bc43374a6646d2",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.claude/agents/peter-drucker.md"
+    },
+    {
+      "path": ".claude/skills/peter-drucker/SKILL.md",
+      "sha256": "d8647445fcf3e796ee3fd0cfc20f855a72fadb3c95ebf31e6a91d197422c43f8",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.claude/skills/peter-drucker/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx",
+      "sha256": "1b8a5a798d49b67515277b0c885029d41f3adc5401556a1a54571f4b92a2d8ce",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.claude/skills/prime-time-audit/assets/Time_Audit_Template.xlsx"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/assets/time_audit.html",
+      "sha256": "6d8c3f34fb619c8d57b75dda7aeb779eaeda261f38f1bbe16d15e52d05a207e6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.claude/skills/prime-time-audit/assets/time_audit.html"
+    },
+    {
+      "path": ".claude/skills/prime-time-audit/SKILL.md",
+      "sha256": "a6ce1c0927122c73829f3d4f1cefbebc5ec97c6800f9c9cedb80acdda099f5e4",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.claude/skills/prime-time-audit/SKILL.md"
+    },
+    {
+      "path": ".pad-pack.json",
+      "sha256": "5532c1c7c8d4c4ef42f50cc0b996f6fde4fb5b4cfe32c47af7eb7875827358c0",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/.pad-pack.json"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "7d94dad8312231e1415e819483c5999ed61d923940e6606a18d63bab8e068eda",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/CLAUDE.md"
+    },
+    {
+      "path": "peter-drucker/CLAUDE.md",
+      "sha256": "f4cc24db4d9473cbbccca50f7c3837078c8a0ccb9140241ab523d89b85a4296c",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/peter-drucker/CLAUDE.md"
+    },
+    {
+      "path": "peter-drucker/memory/peter-drucker-memory.md",
+      "sha256": "1d120b6db404ccac1147cfddf67811df5683b81d59eb83defc5ef27849870526",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/peter-drucker/memory/peter-drucker-memory.md"
+    },
+    {
+      "path": "peter-drucker/reference/research-dossier.md",
+      "sha256": "8f3527cebd6ce820870aa8d5292e1ef36783e408c9708f55651dc27ec1c0bad6",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/peter-drucker/reference/research-dossier.md"
+    },
+    {
+      "path": "peter-drucker/reference/skills-roadmap.md",
+      "sha256": "0d4711685cf310b07812a9f06c9b7259dcf81a479282b4356c81623106f1f3b0",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/peter-drucker/reference/skills-roadmap.md"
+    },
+    {
+      "path": "peter-drucker/skills/peter-drucker/SKILL.md",
+      "sha256": "25146fcaece0742d596129bcdb657f34da58ec4edb38b9b44005a685dbdddeab",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/peter-drucker/skills/peter-drucker/SKILL.md"
+    },
+    {
+      "path": "shared/brand-voice.md",
+      "sha256": "096f8cdb56fe6b194b6bae14970714e6648529e09d81faecc481d890581ee596",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/shared/brand-voice.md"
+    },
+    {
+      "path": "shared/company-context.md",
+      "sha256": "acb83312b7d0cf1e77bb85dd6e28919cce330d5dd2ee99e3a96d97bf3ec7f4bd",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/shared/company-context.md"
+    },
+    {
+      "path": "WELCOME.md",
+      "sha256": "eb20f43a385ef27a47bddb9c5407e38aad08f0cb76863511541905c44a065bc1",
+      "url": "https://raw.githubusercontent.com/ShortenTheGap/prime-100-agents/main/packs/ops-team/WELCOME.md"
+    }
+  ]
+}
